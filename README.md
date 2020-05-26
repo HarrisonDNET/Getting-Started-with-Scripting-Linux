@@ -1,9 +1,9 @@
 # Getting Started with Scripting Linux
 This repository is for beginner script coders in Linux.
 
-!! CURRENTLY IN DEVELOPMENT (Version: dev_1.0) !!
+!! CURRENTLY IN DEVELOPMENT (Version: dev_test-20w22 / dev_1.1) !!
 This will most likely release on June 1, or earlier.
-Status: Working on file - scripttutorialinstall.sh
+Status: Testing file - scripttutorialinstall.sh or Working on file - nanoinstall.sh
 
 RECOMMENDED INSTRUCTIONS
 --------------
