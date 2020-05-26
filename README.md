@@ -19,7 +19,7 @@ If you would like to exit the install at any time press CTRL+C
 [bash nanoinstall.sh]
 If it doesn't say [command not found], then skip this step.
 9. Follow the instructions on screen
-10. You should be ready! Just type:
+10. You should be ready! Navigate to the [tutorial] folder, then type:
 [nano gettingstarted.sh]
 to start your learning!
 
