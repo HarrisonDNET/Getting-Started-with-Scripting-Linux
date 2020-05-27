@@ -1,6 +1,12 @@
 CHANGELOG
 ---------------
 
+Version: dev_1.3
+-----
+Two files for course completed and ready to go
+Still working on installer (scripttutorialinstall.sh) - Fixing wget / curl command
+Starting to work on next files for course
+
 Version: dev_1.2
 -----
 Still fixing bugs for .ZIP file that is downloaded with scripttutorialinstall.sh
