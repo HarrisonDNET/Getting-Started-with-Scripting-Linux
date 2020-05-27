@@ -22,7 +22,7 @@ If you would like to exit the install at any time press CTRL+C
 [bash nanoinstall.sh]
 If it doesn't say [command not found], then skip this step.
 9. Follow the instructions on screen
-10. You should be ready! Navigate to the [scriptingcourse] folder, then type:
+10. You should be ready! Just type:
 [cat readFirstWelcome]
 to start your learning!
 
@@ -35,4 +35,5 @@ NOT RECOMMENDED INSTRUCTIONS
 If it says [command not found], continue. If it doesn't, skip the next step.
 3. Option 1: Locate where you downloaded the files. Type [bash nanoinstall.sh] to install nano.
 Option 2: Type [sudo apt-get install nano] to install nano, then locate where you put the downloaded files.
-4. To start the course, go into the folder [scriptingcourse]
+4. To start the course, type:
+[cat readFirstWelcome]
