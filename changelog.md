@@ -1,6 +1,11 @@
 CHANGELOG
 ---------------
 
+Verison: dev_1.4
+-----
+Final verison of scripttutorialinstall.sh now finished
+Working on new course files
+
 Version: dev_1.3
 -----
 Two files for course completed and ready to go
