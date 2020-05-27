@@ -17,15 +17,22 @@ If you would like to exit the install at any time press CTRL+C
 6. After the install, there should be another file in the folder you are in currently. Make sure that it is colored green in ls. If it isn't, type this command:
 [chmod +x nanoinstall.sh]
 7. Then type this command to see if you already have nano installed:
-[nano]
+[nano --help]
 8. If it says [command not found] then type:
 [bash nanoinstall.sh]
 If it doesn't say [command not found], then skip this step.
 9. Follow the instructions on screen
-10. You should be ready! Navigate to the [tutorial] folder, then type:
-[nano gettingstarted.sh]
+10. You should be ready! Navigate to the [scriptingcourse] folder, then type:
+[cat readFirstWelcome]
 to start your learning!
 
-OTHER INSTRUCTIONS
+NOT RECOMMENDED INSTRUCTIONS
 -------------
-Currently unavaliable at this time.
+1. Download the installationfiles branch, and move the files into where you can access them in linux terminal.
+2. Open your terminal (if you haven't already).
+3. To check if you have nano, type:
+[nano --help]
+If it says [command not found], continue. If it doesn't, skip the next step.
+3. Option 1: Locate where you downloaded the files. Type [bash nanoinstall.sh] to install nano.
+Option 2: Type [sudo apt-get install nano] to install nano, then locate where you put the downloaded files.
+4. To start the course, go into the folder [scriptingcourse]
