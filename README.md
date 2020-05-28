@@ -1,8 +1,7 @@
 # Getting Started with Scripting Linux
 This repository is for beginner script coders in Linux.
 
-!! CURRENTLY IN DEVELOPMENT !!
-DO NOT USE THE INSTALLER UNTIL STABLE
+!! CURRENTLY IN ALPHA STAGE !!
 
 RECOMMENDED INSTRUCTIONS
 --------------
