@@ -1,6 +1,10 @@
 CHANGELOG FOR dev VERSIONS
 --------------------
 
+Version: dev_1.5
+-----
+New file uploaded - nanoinstall.sh - this is used to install nano (final)
+
 Version: dev_1.4.1
 -----
 readFirstWelcome has been edited to have clearer instructions
