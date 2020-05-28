@@ -1,5 +1,10 @@
-CHANGELOG
----------------
+CHANGELOG FOR dev VERSIONS
+--------------------
+
+Version: dev_1.4.1
+-----
+readFirstWelcome has been edited to have clearer instructions
+Working on new course files
 
 Verison: dev_1.4
 -----
