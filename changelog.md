@@ -1,6 +1,10 @@
 CHANGELOG FOR dev VERSIONS
 --------------------
 
+Verison: dev_1.5.1
+-----
+Edited readme.md to be more accurate in the state of this repository
+
 Version: dev_1.5
 -----
 New file uploaded - nanoinstall.sh - this is used to install nano (final)
