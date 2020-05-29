@@ -1,6 +1,11 @@
 CHANGELOG FOR dev VERSIONS
 --------------------
 
+Version: dev_1.5.2
+-----
+Added a new section in readme.md
+Edited not recommended instructions in readme.md
+
 Verison: dev_1.5.1
 -----
 Edited readme.md to be more accurate in the state of this repository
