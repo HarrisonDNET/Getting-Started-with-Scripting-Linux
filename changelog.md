@@ -1,6 +1,10 @@
 CHANGELOG FOR dev VERSIONS
 --------------------
 
+Version: dev_1.5.3
+-----
+Edited installer (scripttutorialinstall.sh) so that there are no errors, and so that it can unzip the file properly
+
 Version: dev_1.5.2
 -----
 Added a new section in readme.md
