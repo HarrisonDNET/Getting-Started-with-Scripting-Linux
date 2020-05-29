@@ -7,6 +7,7 @@ echo "Press enter to start the install"
 read enter
 clear
 wget https://github.com/HarrisonDNET/Getting-Started-with-Scripting-Linux/archive/installationfiles.zip
-tar zxvf installationfiles.zip
+unzip installationfiles.zip
+rm installationfiles.zip
 echo "Press enter when the install is done"
 read enter1
