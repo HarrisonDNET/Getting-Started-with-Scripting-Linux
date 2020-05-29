@@ -1,7 +1,14 @@
 # Getting Started with Scripting Linux
-This repository is for beginner script coders in Linux.
+This repository is for beginner script coders in Linux. You must know basic commands in the linux terminal first before starting this script.
 
 !! CURRENTLY IN ALPHA STAGE !!
+
+RECOMMENDED KNOWLEGE REQUIREMENTS IN LINUX
+--------------
+1. Basic movement with [cd]
+2. Reading the contents of files with [cat]
+3. Seeing the files in a directory with [ls]
+4. Understanding what you can do with [sudo]
 
 RECOMMENDED INSTRUCTIONS
 --------------
@@ -32,7 +39,6 @@ NOT RECOMMENDED INSTRUCTIONS
 3. To check if you have nano, type:
 [nano --help]
 If it says [command not found], continue. If it doesn't, skip the next step.
-3. Option 1: Locate where you downloaded the files. Type [bash nanoinstall.sh] to install nano.
-Option 2: Type [sudo apt-get install nano] to install nano, then locate where you put the downloaded files.
+3. Type [sudo apt-get install nano] to install nano, then locate where you put the downloaded files.
 4. To start the course, type:
 [cat readFirstWelcome]
