@@ -1,6 +1,11 @@
 CHANGELOG FOR dev VERSIONS
 --------------------
 
+Version: alpha_1.0
+-----
+Uploaded scriptingcoursefile3.sh
+Working on more
+
 Version: dev_1.5.3
 -----
 Edited installer (scripttutorialinstall.sh) so that there are no errors, and so that it can unzip the file properly
